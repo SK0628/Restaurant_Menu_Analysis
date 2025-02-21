@@ -13,7 +13,7 @@ This project performs **Natural Language Processing (NLP) and Exploratory Data A
   - Implemented **TF-IDF** and **Bag of Words** for text feature extraction.
 
 ## 📂 Dataset
-- **Source**: [Kaggle / Custom Dataset]
+- **Source**: [Kaggle]
 - **Format**: TSV (Tab-Separated Values)
 - **Contains**: Restaurant menu descriptions and customer reviews.
 
